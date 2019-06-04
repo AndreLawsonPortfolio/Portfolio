@@ -1064,6 +1064,10 @@ span {
 	.content h1 {
 		font-size: 70px;
 	}
+	
+	.content-info a {
+   	 	font-size: 18px;
+	}
 
 	.img-icon {
 		max-width: 70px !important;
