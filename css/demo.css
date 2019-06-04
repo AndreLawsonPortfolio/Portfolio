@@ -1066,7 +1066,9 @@ span {
 	}
 	
 	.content-info a {
-   	 	font-size: 18px;
+   	 	font-size: 44px;
+		position: relative;
+		top: 20px;
 	}
 
 	.img-icon {
